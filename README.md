@@ -10,3 +10,6 @@
      * Bilgisayar 32 bit olanlar: dpinst_x86.exe dosyasını kurması gerekiyor.
   * Firmware için [STSW-LINK007](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-link007.html) linkinden ulaşılan program ile güncelleme yapılabilir. 
   
+* Programarımızı [Keil µVision® IDE](http://www2.keil.com/mdk5/uvision/) ortamını kullanarak yazacağız. Download için [verilen sayfaya](https://www.keil.com/demo/eval/arm.htm) bilgilerinizi girmeniz gerekmektedir. Lite versiyonunu indirin lütfen.
+* Keil sitesinde [STM32 F4 Discovery sayfası](https://www.keil.com/boards2/stmicroelectronics/stm32f4_discovery/)
+  
