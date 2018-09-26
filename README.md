@@ -12,4 +12,10 @@
   
 * Programarımızı [Keil µVision® IDE](http://www2.keil.com/mdk5/uvision/) ortamını kullanarak yazacağız. Download için [verilen sayfaya](https://www.keil.com/demo/eval/arm.htm) bilgilerinizi girmeniz gerekmektedir. Lite versiyonunu indirin lütfen.
 * Keil sitesinde [STM32 F4 Discovery sayfası](https://www.keil.com/boards2/stmicroelectronics/stm32f4_discovery/)
+
+#### Keil µVision® IDE Kurulacak paketler
+* Program açıldığında Pack İnstaller butonunu kullanarak gerekli olan kütüphaneleri kuracağız.
+* Boards sekmesinden sol panelden STM32F4-Discovery (STM32F407VG) yi seçiyoruz.
+* Sağ panelden ise Keil::STM32f4xx_DFP kütüphanesini kuruyoruz.
+ 
   
