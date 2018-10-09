@@ -29,8 +29,12 @@ int main(void){
 	a = (a  & ~(c << 15)); // bu islem a'nin 15. ve 20. bitleri arasini 0 yapar
 	a = a | (b << 15); 
 	
+	// a degiskeninin 18. bitinin degerini okuyan kod
+	a = (a >> 18) & 1;
+	
+	
 	// m > n olmak uzere a degiskeninin m ile n bitleri arasini (dahil)
-// 1 yapan kod
+	// 1 yapan kod
 	b = 0x0;
 	b = ~b; //tum bitleri 1 olan sayi
 	b = (b >> n) << n; //sag taraftaki n biti 0 yapar.
