@@ -1,5 +1,11 @@
-# SDÜ - ISUBU
-## Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
+**Tavsiye Youtube Kanalları - Siteler**  
+* https://www.youtube.com/channel/UCY0sQ9hpSR6yZobt1qOv6DA
+* http://web.eece.maine.edu/~zhu/book/tutorials.php
+* https://www.youtube.com/user/ctas
+* https://www.youtube.com/channel/UC-Mfxi3Fgd-PfKqgHfoRq-Q
+
+## SDÜ - ISUBU
+### Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
 ### 2018-2019 Güz Dönemi EEM465 Gömülü Sistemler Dersi
 
 * Derste kullanacağımız program: [STM32 F4 Discovery](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
