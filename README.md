@@ -1,3 +1,9 @@
+**Sınavla İlgili Açıklama:**
+Sınavda 4 soru vardır. 2 soru son derstendir, 2 soru daha önceki konularla ilgilidir. Sorulardan 1 tanesi temel programcılık becerisi de gerektirmektedir.
+Soruların genel olarak kolay oldukları söylenebilir.   
+Sınav süresi 65 dakikadır. Başarılar.
+   
+
 **Tavsiye Youtube Kanalları - Siteler**  
 * https://www.youtube.com/channel/UCY0sQ9hpSR6yZobt1qOv6DA
 * http://web.eece.maine.edu/~zhu/book/tutorials.php
