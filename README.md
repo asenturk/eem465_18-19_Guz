@@ -1,5 +1,8 @@
 **Proje ile ilgili duyuru:**
-Son tarihler eklenecek
+Proje konusu belirlenmesi için son tarih 5 Aralıktır.
+Proje teslim ve sunum tarihleri 17, 24 Aralıktır.
+Proje sunumları rastgele sıralanarak yapılacaktır.
+Belirtilen tarihler geçmesi durumunda projeniz kabul edilmeyecektir. 
 
 ---
 
