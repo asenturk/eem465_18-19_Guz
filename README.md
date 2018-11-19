@@ -5,7 +5,7 @@ Son tarihler eklenecek
 
 **Sınav Sonuçları:**(19.11.2018)
 Sınav sonuçları sisteme girilmiştir. Sınav sonuçları beklediğinizin çok altında ise sınav kağıtlarınız tekrar incelenecektir.
-Bunun için **sınıf listesi sıra numaranıza** aşağıda verilen linkten ulaşarak bakınız.
+Bunun için **sınıf listesi sıra numaranıza** aşağıda verilen linkten ulaşarak bakınız.   
 https://github.com/asenturk/eem465/tree/master/Sinif%20Listeler
 
 ---
