@@ -1,15 +1,22 @@
-**Proje ile ilgili duyuru:**
+**Sınav Sonuçları:**(19.11.2018)
+Sınav kağıtlarınızı 26.11.2018-30.11.2018 tarihlerinde inceleyebilirsiniz.
+İncelemek için geldiğinizde   
+1. Dersin adı
+2. 1 veya 2. öğretim olduğunuz
+3. yoklama sıra numarasını söylemeniz gerekmektedir.
+
+**Yoklama sıranıza** aşağıda verilen linkten ulaşarak bakınız.   
+https://github.com/asenturk/eem465/tree/master/Sinif%20Listeler
+
+Belirtilen tarihler haricinde kağıtları incelemenize kesinlikle izin verilmeyecektir.
+
+
+
+**Proje ile ilgili duyuru:**(19.11.2018)
 Proje konusu belirlenmesi için son tarih 5 Aralıktır.
 Proje teslim ve sunum tarihleri 17, 24 Aralıktır.
 Proje sunumları rastgele sıralanarak yapılacaktır.
 Belirtilen tarihler geçmesi durumunda projeniz kabul edilmeyecektir. 
-
----
-
-**Sınav Sonuçları:**(19.11.2018)
-Sınav sonuçları sisteme girilmiştir. Sınav sonuçları beklediğinizin çok altında ise sınav kağıtlarınız tekrar incelenecektir.
-Bunun için **sınıf listesi sıra numaranıza** aşağıda verilen linkten ulaşarak bakınız.   
-https://github.com/asenturk/eem465/tree/master/Sinif%20Listeler
 
 ---
 
