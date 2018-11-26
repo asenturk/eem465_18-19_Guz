@@ -1,3 +1,11 @@
+**Ödev 1:** (26.11.2018)   
+Ödev 1 eklenmiştir: https://github.com/asenturk/eem465/tree/master/Odev   
+
+Ödev son gönderme tarihi 1 Aralık 2018 Cumartesi'dir.   
+Verilen formata göre hazırlanmayan ödevler değerlendirilmeyecektir.
+
+---
+
 **Sınav Sonuçları:**(19.11.2018)
 Sınav kağıtlarınızı 26.11.2018-30.11.2018 tarihlerinde inceleyebilirsiniz.
 İncelemek için geldiğinizde   
