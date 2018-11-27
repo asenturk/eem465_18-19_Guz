@@ -1,3 +1,11 @@
+**Alttan Alanlar için Proje Açıklaması** (27.11.2018)   
+Alttan alanlar proje yapmazlarsa proje notuna vize notu girilecektir.   
+Alttan alanlar eğer işyeri eğitiminde ise proje raporunu ilk final haftasında teslim etmeleri gerekmektedir.   
+Projeler bir kişi tarafından yapılacaktır. 
+Proje konusu belirlem takvimi alttan alanlar için de geçerlidir.   
+
+---
+
 **Ödev 1:** (26.11.2018)   
 Ödev 1 eklenmiştir: https://github.com/asenturk/eem465/tree/master/Odev   
 
