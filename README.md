@@ -49,6 +49,7 @@ Sınav süresi 65 dakikadır. Başarılar.
 * https://www.youtube.com/user/ctas
 * https://www.youtube.com/channel/UC-Mfxi3Fgd-PfKqgHfoRq-Q
 * https://www.youtube.com/channel/UCa1REBV9hyrzGp2mjJCagBg
+* https://www.youtube.com/channel/UC-CuJ6qKst9-8Z-EXjoYK3Q
 
 ### SDÜ - ISUBU
 #### Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
