@@ -1,3 +1,16 @@
+**Proje Konuları ve Bilgilendirme** (05.12.2018)   
+Proje konuları kabul edilenler aşağıda bağlantısı verilen dokümanda verilmektedir. Herhangi bir eksik veya yanlış olduğunu düşünüyorsanız lütfen en kısa sürede bilgilendirin.   
+Projelerin sunum sıraları karışık olacak ve gününde yapılamayan sunumlar diğer sonraki haftalarda yapılamayacaktır.   
+Proje sunumları başlamadan önce herkesin projesini tamamlamış ve raporunu belirtilen formatta eposta ile göndermiş olması gerekmektedir.   
+Proje raporunun formatı Ödev formatına çok benzeycektir. Daha sonra kesinleştirilecektir.   
+Projeniz değerlendirilirken birden fazla kriter göz önüne alınacaktır. Kriterlerin neler olduğu ilan edilecektir.   
+1. Öğretim: https://docs.google.com/spreadsheets/d/1uYBVRU0CC0P6fqKpopQ-qkbK2XSuWIixTUqSq1ZYAs0/edit?usp=sharing
+2. Öğretim: https://docs.google.com/spreadsheets/d/1-T59b0WLkKK3qOcnT-Z-k5ORZTsLnnzI097ynKXYSFU/edit?usp=sharing
+
+
+
+---
+
 **Alttan Alanlar için Proje Açıklaması** (27.11.2018)   
 Alttan alanlar proje yapmazlarsa proje notuna vize notu girilecektir.   
 Alttan alanlar eğer işyeri eğitiminde ise proje raporunu ilk final haftasında teslim etmeleri gerekmektedir.   
