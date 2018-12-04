@@ -1,6 +1,6 @@
 **Proje Konuları ve Bilgilendirme** (05.12.2018)   
-Proje konuları kabul edilenler aşağıda bağlantısı verilen dokümanda verilmektedir. Herhangi bir eksik veya yanlış olduğunu düşünüyorsanız lütfen en kısa sürede bilgilendirin.   
-Projelerin sunum sıraları karışık olacak ve gününde yapılamayan sunumlar diğer sonraki haftalarda yapılamayacaktır.   
+Proje konuları kabul edilenler aşağıda bağlantısı verilen dokümanda gösterilmektedir. Herhangi bir eksik veya yanlış olduğunu düşünüyorsanız lütfen en kısa sürede bilgilendirin.   
+Projelerin sunum sıraları karışık olacak ve gününde yapılamayan sunumlar sonraki haftalarda yapılamayacaktır.   
 Proje sunumları başlamadan önce herkesin projesini tamamlamış ve raporunu belirtilen formatta eposta ile göndermiş olması gerekmektedir.   
 Proje raporunun formatı Ödev formatına çok benzeycektir. Daha sonra kesinleştirilecektir.   
 Projeniz değerlendirilirken birden fazla kriter göz önüne alınacaktır. Kriterlerin neler olduğu ilan edilecektir.   
