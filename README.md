@@ -1,3 +1,10 @@
+**Kabul Edilen Projeler** (08.12.2018)   
+Projelerin kabul edilme durumlarını gösteren (05.12.2018) tarihli duyuruda verilen listeler güncellenmiştir.   
+Proje konusu gönderip kabul edilmeyenlere dönüş yapılmıştır.   
+Bu dokümanlarda eksik veya yanlışlık olduğunu düşünüyorsanız lütfen beni bilgilendirin. 
+
+---
+
 **Proje Konuları ve Bilgilendirme** (05.12.2018)   
 Proje konuları kabul edilenler aşağıda bağlantısı verilen dokümanda gösterilmektedir. Herhangi bir eksik veya yanlış olduğunu düşünüyorsanız lütfen en kısa sürede bilgilendirin.   
 Projelerin sunum sıraları karışık olacak ve gününde yapılamayan sunumlar sonraki haftalarda yapılamayacaktır.   
@@ -6,7 +13,6 @@ Proje raporunun formatı Ödev formatına çok benzeycektir. Daha sonra kesinle�
 Projeniz değerlendirilirken birden fazla kriter göz önüne alınacaktır. Kriterlerin neler olduğu ilan edilecektir.   
 1. Öğretim: https://docs.google.com/spreadsheets/d/1uYBVRU0CC0P6fqKpopQ-qkbK2XSuWIixTUqSq1ZYAs0/edit?usp=sharing
 2. Öğretim: https://docs.google.com/spreadsheets/d/1-T59b0WLkKK3qOcnT-Z-k5ORZTsLnnzI097ynKXYSFU/edit?usp=sharing
-
 
 
 ---
