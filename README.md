@@ -2,7 +2,7 @@
 Proje sunum tarihlerine aşağıdaki bağlantıdan ulaşabilirsiniz.   
 https://github.com/asenturk/eem465/tree/master/Proje
 
-Bu dokümanda hata olduğunu düşünüyorsanız lütfen iletişime geçin.
+Bu dokümanda hata olduğunu düşünüyorsanız lütfen iletişime geçin. İşyerinde olanlar final haftası projelerini teslim edecektir.
 
 **Proje rapor formatı**  
 Proje Yükleme Sayfası 1. Öğretim:   
