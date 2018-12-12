@@ -1,4 +1,4 @@
-**Proje Sunum Tarihleri ve Sırası** (11.12.2018)    
+**Proje Sunum Tarihleri ve Sırası** (11.12.2018)     
 Proje sunum tarihlerine aşağıdaki bağlantıdan ulaşabilirsiniz.   
 https://github.com/asenturk/eem465/tree/master/Proje
 
