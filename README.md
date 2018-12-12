@@ -1,4 +1,4 @@
-**Proje Sunum Tarih ve Sırası** (11.12.2018)    
+**Proje Sunum Tarihleri ve Sırası** (11.12.2018)    
 Proje sunum tarihlerine aşağıdaki bağlantıdan ulaşabilirsiniz.   
 https://github.com/asenturk/eem465/tree/master/Proje
 
@@ -11,7 +11,7 @@ https://docs.google.com/forms/d/1LVhfJc9Ov-FNYDUAbkqUQgjO-Nh3ID6FaFVNhMwDkCI/edi
 Proje Yükleme Sayfası 2. Öğretim:      
 https://docs.google.com/forms/d/1aom_4euZ5f0pOv4NBNf_o9CrSQQG22oiMqn_IxnvdyM/edit?usp=sharing
 
-Tüm projelerin 17.12.2018 pazartesi 009:00'da yüklenmesi gerekmektedir. Bu tarihten sonra yüklenen raporlar değerlendirmeye alınmayacaktır.
+Tüm projelerin 17.12.2018 pazartesi 09:00'da yüklenmesi gerekmektedir. Bu tarihten sonra yüklenen raporlar değerlendirmeye alınmayacaktır.
 
 Proje Rapor formatına şağıdaki bağlantıdan ulaşabilirsiniz.  
 https://github.com/asenturk/eem465/tree/master/Proje
