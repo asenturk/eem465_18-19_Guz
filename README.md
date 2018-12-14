@@ -1,3 +1,24 @@
+**Proje Sunumları** (14.12.2018)   
+* Sunumlar için herkesin yaklaşık 5 dakika süresi bulunmaktadır.  
+* Bu sürede projenizin ne olduğu,
+* Projeyi nasıl yaptığınızı anlatmanız,
+* Ve projedeki kodlarınızı kısaca göstermeniz, 
+* Sorulan soruları cevaplamanız gerekmektedir.
+
+Sunumlar sırasında zaman kaybı olmaması için birden fazla projeyi tek bir bilgisayara kopyalabilirsiniz.   
+Bundan dolayı da bir önceki duyuruda belirtilen sırayı takip etmek zorunda değiliz.
+
+Sunumlar 2 kategoride değerlendirilecektir:   
+Rapor (50 puan)   
+Sunum (50 puan)      
+a. Sunum sırasında projenizi doğru bir şekilde anlatmanız ve soruları anlaşılır ve doğru bir şekilde cevaplamanız. (20)
+b. Projenizin zorluğu + projeyi başarıyla tamamlanması miktarı (30 puan)
+
+
+---
+
+
+
 **Proje Sunum Tarihleri ve Sırası** (11.12.2018)     
 Proje sunum tarihlerine aşağıdaki bağlantıdan ulaşabilirsiniz.   
 https://github.com/asenturk/eem465/tree/master/Proje
