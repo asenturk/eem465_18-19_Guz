@@ -10,7 +10,7 @@ Bundan dolayı da bir önceki duyuruda belirtilen sırayı takip etmek zorunda d
 
 Sunumlar 2 kategoride değerlendirilecektir:   
 Rapor (50 puan)   
-Sunum (50 puan)      
+Proje+Sunum (50 puan):      
 a. Sunum sırasında projenizi doğru bir şekilde anlatmanız ve soruları anlaşılır ve doğru bir şekilde cevaplamanız. (20 puan)   
 b. Projenizin zorluğu + projeyi başarıyla tamamlanması miktarı (30 puan)
 
