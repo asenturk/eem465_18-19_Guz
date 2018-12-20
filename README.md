@@ -1,3 +1,10 @@
+**CubeMX ile  Hazırlanan Projelerin tekrar hazırlanması** (20.12.2018)   
+Projelerini CubeMX ile veya hazır kütüphane - fonksiyon kullanarak hazırlayanlar gelecek hafta ders saatinden önce raporlarını göndermek ve ders saatinde projelerini sunmak üzere projelerini düzenleyebilirler.   
+Bu durumdakilerin mağdur olmamaları için bu duyuruyu gruplarınızda paylaşabilirseniz sevinirim.   
+
+---
+
+
 **Proje Sunumları** (14.12.2018)   
 * Sunumlar için herkesin yaklaşık 5 dakika süresi bulunmaktadır.  
 * Bu sürede projenizin ne olduğu,
