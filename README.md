@@ -1,3 +1,14 @@
+Final Sınavı (01.01.2019)  
+1. soru ADC ile ilgilidir.
+2. soru Systick zamanlayıcısının kullanımı ile ilgilidir.
+3. soru PLL ile ilgilidir.
+
+Bu duyuru sınav tamamen hazırlandığında güncellenecektir..
+
+
+---
+
+
 (20.12.2018)   
 
 Yeni ödev verilmeyecektir.
