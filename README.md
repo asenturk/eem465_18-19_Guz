@@ -2,8 +2,13 @@ Final Sınavı (01.01.2019)
 1. soru ADC ile ilgilidir.
 2. soru Systick zamanlayıcısının kullanımı ile ilgilidir.
 3. soru PLL ile ilgilidir.
+4. soru interrupt ile ilgilidir.
 
-Bu duyuru sınav tamamen hazırlandığında güncellenecektir..
+Derste verilen yapıların ve kodların çalışma mantığını biliyorsanız soruları zorlanmadan çözebilirsiniz.   
+Ezberlemeniz gereken herhangi bir programlama yapısı yoktur.   
+Hiç bir soruda programın tamamını yazmanız gerekmiyor. Sadece sorulan soru ile ilgili kısmı yazınız.
+Süre 60 dakikadır.      
+Başarılar.   
 
 
 ---
