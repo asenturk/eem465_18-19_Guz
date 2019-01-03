@@ -1,4 +1,15 @@
-Final Sınavı (01.01.2019)  
+**Final Sonuçları** (03.01.2019)   
+
+Final notlarınıza aşağıdaki adresten ulaşabilirsiniz.  
+Sınav kağıtlarınızı 09.01.2019 Çarşamba  son gün olmak üzere kontrol edebilirsiniz.   
+Vize sınavında not düzeltmeleri için resmi başvuru yapılmıştır.   
+Bu notlara ödevler dahil değildir.   
+
+https://github.com/asenturk/eem465/tree/master/Final
+
+---
+
+**Final Sınavı** (01.01.2019)  
 1. soru ADC ile ilgilidir.
 2. soru Systick zamanlayıcısının kullanımı ile ilgilidir.
 3. soru PLL ile ilgilidir.
@@ -6,7 +17,7 @@ Final Sınavı (01.01.2019)
 
 Derste verilen yapıların ve kodların çalışma mantığını biliyorsanız soruları zorlanmadan çözebilirsiniz.   
 Ezberlemeniz gereken herhangi bir programlama yapısı yoktur.   
-Hiç bir soruda programın tamamını yazmanız gerekmiyor. Sadece sorulan soru ile ilgili kısmı yazınız.
+Hiç bir soruda programın tamamını yazmanız gerekmiyor. Sadece sorulan soru ile ilgili kısmı yazınız.   
 Süre 60 dakikadır.      
 Başarılar.   
 
