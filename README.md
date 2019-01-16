@@ -1,3 +1,12 @@
+**Gönderilen Ödevler** (16.01.2019)   
+Gönderilen ödevleri aşağıdaki bağlantıdan görebilirsiniz. Listede bir hata olduğunu düşünüyorsanız en kısa sürede iletişime geçin.  
+
+https://github.com/asenturk/eem465/tree/master/Odev%20Degerlendirme
+
+
+
+---
+
 **Final Sonuçları** (03.01.2019)   
 
 Final notlarınıza aşağıdaki adresten ulaşabilirsiniz.  
