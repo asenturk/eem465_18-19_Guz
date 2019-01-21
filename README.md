@@ -1,3 +1,15 @@
+**Bütünleme Sınavı** (21.01.2019)  
+Bütünleme sınavında final sınavı ile benzer konular ve sorular çıkacaktır. Özellikle final sınavında çıkan soruların çözüm mantığını çalışmanızı ve anlamanızı tavsiye ediyorum.
+Bazı bütünleme sınavı soruları biraz daha zor olabilir.   
+
+Ezberlemeniz gereken herhangi bir programlama yapısı yoktur. Gerekli yapılar verilecektir.
+Hiç bir soruda programın tamamını yazmanız gerekmiyor. Sadece sorulan soru ile ilgili kısmı yazınız.   
+Süre 60 dakikadır.      
+
+Herhangi bir değişikli olursa bu duyuru tekrar düzenlenecektir.   
+
+---
+
 **Gönderilen Ödevler** (16.01.2019)   
 Gönderilen ödevleri aşağıdaki bağlantıdan görebilirsiniz. Listede bir hata olduğunu düşünüyorsanız en kısa sürede iletişime geçin.  
 
