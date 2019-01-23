@@ -1,12 +1,15 @@
 **Bütünleme Sınavı** (21.01.2019)  
+Güncelleme (23.01.2019): Sınavda 1 tane programlama sorusu vardır. 1 tane doğrudan tanım sorusu vardır.   
+Geriye kalan sorulardan 1 tanesi kolay bir yorum sorusudur. 1 tanesi de hesaplama sorusudur.
+
 Bütünleme sınavında final sınavı ile benzer konular ve sorular çıkacaktır. Özellikle final sınavında çıkan soruların çözüm mantığını çalışmanızı ve anlamanızı tavsiye ediyorum.
-Bazı bütünleme sınavı soruları biraz daha zor olabilir.   
+Bazı bütünleme sınavı soruları biraz daha zor olabilir.  
 
 Ezberlemeniz gereken herhangi bir programlama yapısı yoktur. Gerekli yapılar verilecektir.
 Hiç bir soruda programın tamamını yazmanız gerekmiyor. Sadece sorulan soru ile ilgili kısmı yazınız.   
 Süre 60 dakikadır.      
 
-Herhangi bir değişikli olursa bu duyuru tekrar düzenlenecektir.   
+
 
 ---
 
