@@ -1,4 +1,4 @@
-**Repository arşivlendi**   (11.02.2019)
+**Repository arşivlendi**   (11.02.2019)    
 Repository nin adı değiştiği için README dosyasındaki (bu dosya) linkler çalışmayabilir. Linklerde eem465 yerine eem465_18-19_Guz
 yazmanız işe yarayabilir.
 
