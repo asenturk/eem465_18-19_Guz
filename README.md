@@ -1,3 +1,13 @@
+**Repository arşivlendi**   (11.02.2019)
+Repository nin adı değiştiği için README dosyasındaki (bu dosya) linkler çalışmayabilir. Linklerde eem465 yerine eem465_18-19_Guz
+yazmanız işe yarayabilir.
+
+Maalesef bir klasöre taşındığı zaman commit mesajlarının hepsi değişiyor.
+ 
+-----
+
+
+
 **Bütünleme Sınavı** (21.01.2019)  
 Güncelleme (23.01.2019): Sınavda 1 tane programlama sorusu vardır. 1 tane doğrudan tanım sorusu vardır.   
 Geriye kalan sorulardan 1 tanesi kolay bir yorum sorusudur. 1 tanesi de hesaplama sorusudur.
